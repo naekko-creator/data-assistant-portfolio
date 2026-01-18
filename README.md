@@ -1,27 +1,45 @@
-# Data Cleaning Project (Python)
+# Data Assistant Portfolio
 
-## 📌 Project Overview
-This project demonstrates a basic data cleaning workflow using Python and pandas.
-The goal is to transform raw data into clean, analysis-ready data.
+Hi, I’m Ahmad Yani 👋  
+I’m a beginner data assistant with hands-on experience in data cleaning and SQL analysis.
 
-## 🧰 Tools Used
+This repository contains practical projects demonstrating my skills in handling real-world datasets.
+
+---
+
+## 📁 Projects
+
+### 1️⃣ Data Cleaning with Python
+**Folder:** `01_data_cleaning_python`
+
+- Cleaned raw CSV data using pandas
+- Handled missing values
+- Exported clean datasets
+- Performed basic exploratory analysis
+
+**Skills:** Python, Pandas, Jupyter Notebook
+
+---
+
+### 2️⃣ SQL Data Analysis
+**Folder:** `02_data_analysis_sql`
+
+- Analyzed sales data using SQL
+- Used SELECT, WHERE, GROUP BY
+- Answered basic business questions
+
+**Skills:** SQL, Data Analysis
+
+---
+
+## 🛠 Tools & Skills
 - Python
 - Pandas
+- SQL
 - Jupyter Notebook
+- GitHub
 
-## 📂 Project Structure
-01_data_cleaning_python/
-- raw_data.csv
-- clean_data.csv
-- data_cleaning.ipynb
+---
 
-## 🔍 Key Steps
-- Load raw dataset
-- Remove missing values
-- Export cleaned data to CSV
-
-## ✅ Output
-- clean_data.csv (ready for analysis)
-
-## 👤 Author
-Ahmad Yani
+## 📌 Contact
+Feel free to reach out for collaboration or freelance projects.
